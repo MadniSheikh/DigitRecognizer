@@ -3,10 +3,4 @@ streamlit-drawable-canvas
 Pillow
 numpy
 tensorflow-cpu
-PIL
-pickle
-base64
-io
 scikit-learn
-matplotlib
-tkinter
