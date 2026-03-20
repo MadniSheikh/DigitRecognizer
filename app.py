@@ -197,4 +197,4 @@ with col2:
         <div class="results-card" style="opacity: 0.5; margin-top: 50px; border: 2px dashed #ccc;">
             <p style="margin: 30px 0; color: #888; font-size: 16px;">Draw a number and click Predict to see the results here.</p>
         </div>
-        """, unsafe_allow_html=True)
+        """, unsafe_allow_html=True)    
